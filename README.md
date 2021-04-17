@@ -1,4 +1,4 @@
-ruin - ruins the server
+ruin - ruins the server<br />
 massban - bans everyone
 masskick - kicks everyone
 dmall <message> - messages everyone
